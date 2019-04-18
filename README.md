@@ -1,2 +1,2 @@
 # SideProject1
-Website created in my free time
+ https://inayarajwani.github.io/SideProject1/
